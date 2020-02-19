@@ -1,7 +1,7 @@
 # Backend https://www.netlifycms.org/docs/configuration-options/#backend
 backend:
   name: github
-  branch: deleyva/encuentro-distros-linux-spain
+  repo: deleyva/encuentro-distros-linux-spain
 
 # Publish mode https://www.netlifycms.org/docs/configuration-options/#publish-mode
 publish_mode: editorial_workflow
