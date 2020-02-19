@@ -1,9 +1,9 @@
 {
   "title": "Home",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Encuentro de Distribuciones Linux de España\n\n¿Quieres compartir tu experiencia? La fase _Call for papers_ está abierta. Estaremos encantados de recibir tu propuesta",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Encuentro de Distribuciones Linux de España\n\n¿Quieres compartir tu experiencia? La fase *Call for papers* está abierta. Estaremos encantados de recibir tu propuesta\n\n![](/images/uploads/tux.png)",
+  "logo": "/images/uploads/tux.png",
+  "icon": "/images/uploads/tux.png",
   "loadingColor": "#0b3765",
   "seoDescription": "Encuentro de Distribuciones Linux de España",
   "seoMetaImage": ""
